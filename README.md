@@ -1,4 +1,5 @@
-🏦 Bank Loan Analytics Dashboard | Power BI
+
+#🏦 Bank Loan Analytics Dashboard | Power BI
 📊 Transforming Raw Loan Data into Actionable Business Insights
 
 Power BI • DAX • Power Query • Data Modeling • Business Intelligence
